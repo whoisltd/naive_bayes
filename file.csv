@@ -1,0 +1,16 @@
+STT,ID,Level,Job,N_Company,Top_Train,Project,Result
+1,0175,Đại học,Có,2,Không,Không,Không
+2,0217,Đại học,Không,1,Có,Có,Có
+3,0222,Cao đẳng,Không,4,Không,Không,Không
+4,0310,Đại học,Có,1,Có,Không,Có
+5,0343,Đại học,Có,2,Có,Không,Có
+6,0356,Đại học,Không,0,Có,Có,Có
+7,0432,Cao đẳng,Có,0,Không,Không,Không
+8,0477,Đại học,Không,1,Không,Có,Có
+9,0489,Trung tâm tin học,Có,0,Không,Có,Có
+10,0490,Cao đẳng,Không,0,Không,Không,Không
+11,0551,Đại học,Không,3,Có,Không,Có
+12,0563,Trung tâm tin học,Có,3,Không,Có,Có
+13,0564,Đại học,Không,0,Không,Không,Có
+14,0565,Trung tâm tin học,Có,4,Không,Không,Không
+15,0812,Cao đẳng,Không,5,Không,Có,Có
